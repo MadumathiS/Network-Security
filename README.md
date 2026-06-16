@@ -81,25 +81,24 @@ All access-layer switches are connected in a star formation to a central Layer 3
 
 
 ## 📁 Project Structure
-
-
 Network-Security/
+
 │
 ├── README.md
 ├── topology.pkt
 │
 ├── configs/
 │ ├── core-switch-config.txt
-│ ├── access-switch-configs/
-│ │ ├── support-a-switch.txt
-│ │ ├── support-b-switch.txt
-│ │ ├── production-switch.txt
-│ │ ├── study-switch.txt
-│ │ ├── management-switch.txt
-│ │ └── it-switch.txt
-│ │
 │ ├── firewall-config.txt
-│ └── server-configs.txt
+│ ├── server-configs.txt
+│ │
+│ └── access-switch-configs/
+│ ├── support-a-switch.txt
+│ ├── support-b-switch.txt
+│ ├── production-switch.txt
+│ ├── study-switch.txt
+│ ├── management-switch.txt
+│ └── it-switch.txt
 │
 ├── documentation/
 │ ├── ip-plan.md
