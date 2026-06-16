@@ -78,6 +78,8 @@ All access-layer switches are connected in a star formation to a central Layer 3
 - Simulate real-world enterprise security architecture
 
 ---
+
+
 ## 📁 Project Structure
 
 
