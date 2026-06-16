@@ -118,3 +118,62 @@ Network-Security/
 └── ping-tests.png
 
 ```
+
+---
+
+## 🖼️ Screenshots
+
+> Add Packet Tracer visuals here
+
+- Complete topology view
+- VLAN segmentation map
+- Firewall configuration
+- Server room setup
+- Connectivity test results (ping/traceroute)
+
+---
+
+## ⚙️ How to Run the Project
+
+1. Open Cisco Packet Tracer
+2. Load the file:
+```
+netify.pkt
+```
+3. Wait for devices to initialize
+4. Verify:
+- VLAN assignments
+- DHCP allocation
+- Inter-VLAN routing
+- Firewall rules
+5. Test connectivity using:
+- `ping`
+- `tracert`
+
+---
+
+## 🔐 Security Design Summary
+
+- VLAN isolation between departments
+- Controlled inter-VLAN routing via ACLs
+- Firewall filtering for external traffic
+- Centralized authentication (RADIUS-ready design)
+- Secure server segmentation in dedicated network zone
+
+---
+
+## 📊 Outcome
+
+This project demonstrates a fully functional enterprise network with:
+
+- Scalable collapsed core star topology
+- Strong segmentation and isolation
+- Secure inter-department communication
+- Centralized routing and services
+- Real-world enterprise security implementation
+
+---
+
+## 📌 License
+
+Educational / Academic Cisco Packet Tracer Simulation Project
