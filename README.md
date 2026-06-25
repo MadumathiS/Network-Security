@@ -108,19 +108,16 @@ This project was a collaborative effort by a team of six members, each with a de
 │   │   ├── study-switch.txt
 │   │   ├── management-switch.txt
 │   │   └── it-switch.txt
-│   └── individual_staging/             # Sandbox where Kipras, Sofia, Hannah, etc., test configs
 │
 ├── documentation/                      # All project documentation and admin deliverables
 │   ├── Main/                           # Final combined team outputs
-│   │   ├── final_report.pdf
-│   │   ├── ip-plan.md
-│   │   ├── vlan-design.md
-│   │   └── acl-rules.md
+│   │   ├── Final_report.pdf
+│   │   └── Networking_Analysis.pdf
+│   │  
 │   ├── Admin/                          # Madu's budget and presentation files
 │   │   ├── cost_estimation.xlsx
 │   │   └── presentation.pptx
-│   └── individual_logs/                # Supplemental research and individual task documentation
-│
+│                 
 └── screenshots/                        # Visual verification of tests and setups
     ├── topology-overview.png
     ├── vlan-segmentation.png
