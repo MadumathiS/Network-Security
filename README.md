@@ -1,4 +1,4 @@
-# BXL-Hamilton-2026-Netify
+
 # Enterprise Network Architecture & Security Simulation
 <img width="280" height="100" alt="image" src="https://github.com/user-attachments/assets/a24aad27-6f3d-421a-b0f7-5449ae1e080c" />
 
