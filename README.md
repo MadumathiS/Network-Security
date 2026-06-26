@@ -1,7 +1,10 @@
-# BXL-Hamilton-2026-Netify
 # Enterprise Network Architecture & Security Simulation
+
+
 <img width="280" height="100" alt="image" src="https://github.com/user-attachments/assets/a24aad27-6f3d-421a-b0f7-5449ae1e080c" />
 
+
+---
 Network Security project designed and simulated using Cisco Packet Tracer, demonstrating a **collapsed core star topology enterprise network architecture**. The design focuses on secure segmentation, centralized routing, and controlled inter-department communication using VLANs, ACLs, and firewall enforcement.
 
 All access-layer switches are connected in a star formation to a central Layer 3 core switch, which handles inter-VLAN routing and network policy enforcement.
@@ -16,8 +19,8 @@ This project was a collaborative effort by a team of six members, each with a de
 * **Mateo (Server):** Responsible for core server deployment and network addressing, a phase that is now completed. He designed the IP addressing scheme, configured printer services, and set up critical network services including DNS, DHCP, and FTP, alongside completing his corresponding documentation.
 * **Sofia (Security A):** Tasked with establishing initial network perimeter security and access controls, a phase currently in progress. Her focus includes the hardware firewall configuration, setting up centralized AAA services, defining VPN/access policies, and logging these implementations in the documentation.
 * **Hannah (Security B):** Managing advanced network security defenses, currently in progress. Her core duties involve the implementation of Access Control Lists (ACLs), DMZ configuration, enforcing port security and device hardening, as well as compiling the technical documentation for these actions.
-* **Mustafa (Documentation):** Acting as the central archivist and coordinator for the project's final outputs, currently in progress. His responsibilities include developing the Access Control Matrix, organizing IP tables and network diagrams, and overseeing the final PDF compilation of the entire project's paperwork.
-* **Madumathi (Admin):** Served as the Project Lead, overseeing all phases from initial planning to final delivery for this in-progress phase. Madu's responsibilities include managing the administrative, financial, and presentation deliverables of the project—specifically performing the cost estimation and budget management for all network components, preparing the final presentation, and structuring, editing, and compiling the main project documentation.
+* **Mustafa (Documentation):** Acting as the central archivist and coordinator for the project's final outputs.His responsibilities include developing the Access Control Matrix, organizing IP tables and network diagrams, and overseeing the final PDF compilation of the entire project's paperwork.
+* **Madumathi (Admin):** Served as the Project Lead, overseeing all phases from initial planning to final delivery. Madu's responsibilities include managing the administrative, financial, and presentation deliverables of the project—specifically performing the cost estimation and budget management for all network components, preparing the final presentation, and structuring, editing, and compiling the main project documentation.
 
 ---
 
